@@ -1,6 +1,10 @@
 PREDIABET Mobile 🩺
 PREDIABET is a comprehensive health management tool designed to help users identify and manage prediabetes risks. Built using React Native and Expo, the app implements the FINDRISK (Finnish Diabetes Risk Score) protocol alongside modern health tracking features.
-
+==================
+For the test:
+Kullanıcı Adı=admin
+Şifre=admin
+==================
 ✨ Key Features
 📊 Risk Assessment: Full implementation of the FINDRISK questionnaire.
 ⚖️ Health Metrics: BMI (BKİ) calculator with historical tracking.
